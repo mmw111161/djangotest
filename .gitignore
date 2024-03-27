@@ -1,0 +1,7 @@
+.DS_Store
+/temp/
+.idea/
+/env_diverse/
+.htpasswd
+/logs/
+/*.sql
